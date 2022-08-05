@@ -1,6 +1,12 @@
 ﻿<Properties StartupConfiguration="{4788A120-F518-47FA-BC09-89C34932F26C}|Default">
   <MonoDevelop.Ide.ItemProperties.Wellnest PreferredExecutionTarget="/Applications/Google Chrome.app" />
+<<<<<<< HEAD
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
+=======
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+>>>>>>> 3e3e4ea (feat: initial commit)
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -8,7 +14,13 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
+<<<<<<< HEAD
           <Node name="Wellnest" expanded="True" />
+=======
+          <Node name="Wellnest" expanded="True">
+            <Node name="Wellnest" expanded="True" />
+          </Node>
+>>>>>>> 3e3e4ea (feat: initial commit)
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
