@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wellnest", "Wellnest\Wellnest.csproj", "{0F941E13-9584-4913-AA71-30CEC1CD195F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F941E13-9584-4913-AA71-30CEC1CD195F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F941E13-9584-4913-AA71-30CEC1CD195F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F941E13-9584-4913-AA71-30CEC1CD195F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F941E13-9584-4913-AA71-30CEC1CD195F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17A726BE-5390-4F65-A658-7D89F7EBAE1B}
+	EndGlobalSection
+EndGlobal
